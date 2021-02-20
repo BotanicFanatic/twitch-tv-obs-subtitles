@@ -38,9 +38,9 @@ div#subtitle {
 
 div#hero {
     width: 100vw;
-    height: 100vh;
+    height: 50vh;
     font-size: 80;
-    color: red;
+    color: blue;
     padding-top: 100px;
 }
 
